@@ -1,6 +1,6 @@
 Star Wars - Core Canon
 ======================
-The Star Wars core canon of the expanded universe for our RPG group.
+The Star Wars core canon of the expanded universe (EU) for our RPG group.
 
 All works presented here (may they be movies, novels, comics or games) are 
 selected because they match in overall time, tone, personal and quality.
@@ -37,16 +37,13 @@ FAQ
 ### Isn't that mostly _Legends_ stuff?
 No, that's the **true** stuff.
 
-### Aren't there interferences/incompatibilities?
-Yes, but these aren't the droids you're looking for...
-
-### What about the Disney franchise reboot?
+### What about the Disney franchise ~~reboot~~- ~~remake~~ whatever?
 If you like to be told the same story over and over again, go watch a Marvel 
 movie instead.
 
 ### What about the _Old Republic_?
-_Star Wars: Knights of the Old Republic_ is really great, but way off time for
-this list.
+_Star Wars: Knights of the Old Republic_ (RPG) is really great, but way off time
+for this list.
 
 ### What about the _Yuuzhan Vong_?
 I'm not interessted in that kind of shit.
