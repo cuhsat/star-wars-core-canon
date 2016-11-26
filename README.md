@@ -37,7 +37,7 @@ FAQ
 ### Isn't that mostly _Legends_ stuff?
 No, that's the **true** stuff.
 
-### What about the Disney franchise ~~reboot~~- ~~remake~~ whatever?
+### What about the Disney franchise ~~reboot~~ ~~remake~~ whatever?
 If you like to be told the same story over and over again, go watch a Marvel 
 movie instead.
 
