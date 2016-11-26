@@ -10,7 +10,7 @@ This list may be expanded in the future. Your mileage may vary.
 Chronological List
 ------------------
 All sources are from the C-Canon and ordered by the
-[Timeline of Legends media][TLM]:
+[Timeline of Legends media][TLM].
 
 ### [Star Wars: X-Wing][XWG]
 ### [Star Wars: Dark Forces][DF1]
