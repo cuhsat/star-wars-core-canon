@@ -32,16 +32,10 @@ All sources are from the C-Canon and ordered by the
 ### [Star Wars: The Last Command][TH3]
 ### [Star Wars: Jedi Knight: Mysteries of the Sith][MOS]
 
-Candidates
-----------
-### [Star Wars Legends Epic Collection: The Rebellion Volume 1][TR1]
-### [Star Wars: Crimson Empire][CE1]
-### [Star Wars: Crimson Empire II: Council of Blood][CE2]
-
 FAQ
 ---
-### Isn't that mostly Legends stuff?
-No, that's the *true* stuff.
+### Isn't that mostly _Legends_ stuff?
+No, that's the **true** stuff.
 
 ### Aren't there interferences/incompatibilities?
 Yes, but these aren't the droids you're looking for...
@@ -61,19 +55,19 @@ I'm not interessted in that kind of shit.
 Stop making up words.
 
 ### What about the _Clone Wars_?
-You mean the clown wars? Clowns are for kids.
+You mean the Clown Wars? Clowns are for kids.
 
-### What about Episode 3, 2 or 1?
-No, No, and *just No*.
+### What about Episode _3_, _2_ or _1_?
+No, no, and **just no**.
 
-### Really, no Jar Jar Binks?
+### Really, no _Jar Jar Binks_?
 Get of my lawn, kid!
 
 ### But he is funny!
 I dare you, I double-dare you!
 
-### But Ewoks are in!
-Because everybody *loves* fucking Ewoks.
+### But _Ewoks_ are in!
+Because everybody **loves** fucking Ewoks.
 
 Disclaimer
 ----------
