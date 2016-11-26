@@ -38,32 +38,6 @@ Candidates
 ### [Star Wars: Crimson Empire][CE1]
 ### [Star Wars: Crimson Empire II: Council of Blood][CE2]
 
-References
-----------
-[ALL]: http://starwars.wikia.com/wiki/Allegiance_(novel)
-[CE1]: http://starwars.wikia.com/wiki/Crimson_Empire
-[CE2]: http://starwars.wikia.com/wiki/Crimson_Empire_II:_Council_of_Blood
-[COO]: http://starwars.wikia.com/wiki/Choices_of_One
-[DF1]: http://starwars.wikia.com/wiki/Star_Wars:_Dark_Forces
-[DF2]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Dark_Forces_II
-[EP4]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_IV_A_New_Hope
-[EP5]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back
-[EP6]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi
-[MOS]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Mysteries_of_the_Sith
-[SOE]: http://starwars.wikia.com/wiki/Shadows_of_the_Empire_(novel)
-[TFG]: http://starwars.wikia.com/wiki/Star_Wars:_TIE_Fighter
-[TH1]: http://starwars.wikia.com/wiki/Heir_to_the_Empire
-[TH2]: http://starwars.wikia.com/wiki/Dark_Force_Rising
-[TH3]: http://starwars.wikia.com/wiki/The_Last_Command
-[TLM]: http://starwars.wikia.com/wiki/Timeline_of_Legends_media
-[TR1]: http://starwars.wikia.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Rebellion_Volume_1
-[XVT]: http://starwars.wikia.com/wiki/Star_Wars:_X-Wing_vs._TIE_Fighter
-[XW1]: http://starwars.wikia.com/wiki/X-Wing:_Rogue_Squadron
-[XW2]: http://starwars.wikia.com/wiki/X-Wing:_Wedge%27s_Gamble
-[XW3]: http://starwars.wikia.com/wiki/X-Wing:_The_Krytos_Trap
-[XW4]: http://starwars.wikia.com/wiki/X-Wing:_The_Bacta_War
-[XWG]: http://starwars.wikia.com/wiki/Star_Wars:_X-Wing
-
 FAQ
 ---
 ### Isn't that mostly Legends stuff?
@@ -104,3 +78,27 @@ Because everybody *loves* fucking Ewoks.
 Disclaimer
 ----------
 Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
+
+[ALL]: http://starwars.wikia.com/wiki/Allegiance_(novel)
+[CE1]: http://starwars.wikia.com/wiki/Crimson_Empire
+[CE2]: http://starwars.wikia.com/wiki/Crimson_Empire_II:_Council_of_Blood
+[COO]: http://starwars.wikia.com/wiki/Choices_of_One
+[DF1]: http://starwars.wikia.com/wiki/Star_Wars:_Dark_Forces
+[DF2]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Dark_Forces_II
+[EP4]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_IV_A_New_Hope
+[EP5]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back
+[EP6]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi
+[MOS]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Mysteries_of_the_Sith
+[SOE]: http://starwars.wikia.com/wiki/Shadows_of_the_Empire_(novel)
+[TFG]: http://starwars.wikia.com/wiki/Star_Wars:_TIE_Fighter
+[TH1]: http://starwars.wikia.com/wiki/Heir_to_the_Empire
+[TH2]: http://starwars.wikia.com/wiki/Dark_Force_Rising
+[TH3]: http://starwars.wikia.com/wiki/The_Last_Command
+[TLM]: http://starwars.wikia.com/wiki/Timeline_of_Legends_media
+[TR1]: http://starwars.wikia.com/wiki/Star_Wars_Legends_Epic_Collection:_The_Rebellion_Volume_1
+[XVT]: http://starwars.wikia.com/wiki/Star_Wars:_X-Wing_vs._TIE_Fighter
+[XW1]: http://starwars.wikia.com/wiki/X-Wing:_Rogue_Squadron
+[XW2]: http://starwars.wikia.com/wiki/X-Wing:_Wedge%27s_Gamble
+[XW3]: http://starwars.wikia.com/wiki/X-Wing:_The_Krytos_Trap
+[XW4]: http://starwars.wikia.com/wiki/X-Wing:_The_Bacta_War
+[XWG]: http://starwars.wikia.com/wiki/Star_Wars:_X-Wing
