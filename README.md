@@ -9,8 +9,8 @@ This list may be expanded in the future. Your mileage may vary.
 
 Chronological List
 ------------------
-All sources are from the C-Canon and ordered by the
-[Timeline of Legends media][TLM].
+All sources are from the C-Canon spanning from 1 BBY to 19 ABY and ordered by 
+the [Timeline of Legends media][TLM].
 
 ### [Star Wars: X-Wing][XWG]
 ### [Star Wars: Dark Forces][DF1]
@@ -31,6 +31,8 @@ All sources are from the C-Canon and ordered by the
 ### [Star Wars: Dark Force Rising][TH2]
 ### [Star Wars: The Last Command][TH3]
 ### [Star Wars: Jedi Knight: Mysteries of the Sith][MOS]
+### [Star Wars: Spector of the Past][HT1]
+### [Star Wars: Vision of the Future][HT2]
 
 FAQ
 ---
@@ -42,8 +44,8 @@ If you like to be told the same story over and over again, go watch a Marvel
 movie instead.
 
 ### What about the _Old Republic_?
-_Star Wars: Knights of the Old Republic_ (RPG) is really great, but way off time
-for this list.
+_Star Wars: Knights of the Old Republic_ (RPG) is really great, but way off 
+time for this list.
 
 ### What about the _Yuuzhan Vong_?
 I'm not interessted in that kind of shit.
@@ -58,10 +60,7 @@ You mean the Clown Wars? Clowns are for kids.
 No, no, and **just no**.
 
 ### Really, no _Jar Jar Binks_?
-Get of my lawn, kid!
-
-### But he is funny!
-I dare you, I double-dare you!
+Get of my lawn, kid. I dare you!
 
 ### But _Ewoks_ are in!
 Because everybody **loves** fucking Ewoks.
@@ -79,6 +78,8 @@ Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
 [EP4]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_IV_A_New_Hope
 [EP5]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back
 [EP6]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi
+[HT1]: http://starwars.wikia.com/wiki/Specter_of_the_Past
+[HT2]: http://starwars.wikia.com/wiki/Vision_of_the_Future
 [MOS]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Mysteries_of_the_Sith
 [SOE]: http://starwars.wikia.com/wiki/Shadows_of_the_Empire_(novel)
 [TFG]: http://starwars.wikia.com/wiki/Star_Wars:_TIE_Fighter
