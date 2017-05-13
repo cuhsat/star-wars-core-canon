@@ -31,6 +31,7 @@ the [Timeline of Legends media][TLM].
 ### [Star Wars: Dark Force Rising][TH2]
 ### [Star Wars: The Last Command][TH3]
 ### [Star Wars: Jedi Knight: Mysteries of the Sith][MOS]
+### [Star Wars: Jedi Knight II: Jedi Outcast][DF3]
 ### [Star Wars: Spector of the Past][HT1]
 ### [Star Wars: Vision of the Future][HT2]
 
@@ -75,6 +76,7 @@ Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
 [COO]: http://starwars.wikia.com/wiki/Choices_of_One
 [DF1]: http://starwars.wikia.com/wiki/Star_Wars:_Dark_Forces
 [DF2]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Dark_Forces_II
+[DF3]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight_II:_Jedi_Outcast
 [EP4]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_IV_A_New_Hope
 [EP5]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_V_The_Empire_Strikes_Back
 [EP6]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi
