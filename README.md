@@ -27,6 +27,10 @@ the [Timeline of Legends media][TLM].
 ### [X-Wing: Wedge's Gamble][XW2]
 ### [X-Wing: The Krytos Trap][XW3]
 ### [X-Wing: The Bacta War][XW4]
+### [X-Wing: Wraith Squadron][XW5]
+### [X-Wing: Iron Fist][XW6]
+### [X-Wing: Solo Command][XW7]
+### [X-Wing: Isard's Revenge][XW8]
 ### [Star Wars: Heir to the Empire][TH1]
 ### [Star Wars: Dark Force Rising][TH2]
 ### [Star Wars: The Last Command][TH3]
@@ -95,4 +99,8 @@ Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
 [XW2]: http://starwars.wikia.com/wiki/X-Wing:_Wedge%27s_Gamble
 [XW3]: http://starwars.wikia.com/wiki/X-Wing:_The_Krytos_Trap
 [XW4]: http://starwars.wikia.com/wiki/X-Wing:_The_Bacta_War
+[XW5]: http://starwars.wikia.com/wiki/X-Wing:_Wraith_Squadron
+[XW6]: http://starwars.wikia.com/wiki/X-Wing:_Iron_Fist
+[XW7]: http://starwars.wikia.com/wiki/X-Wing:_Solo_Command
+[XW8]: http://starwars.wikia.com/wiki/X-Wing:_Isard%27s_Revenge
 [XWG]: http://starwars.wikia.com/wiki/Star_Wars:_X-Wing
