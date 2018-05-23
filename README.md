@@ -36,6 +36,7 @@ the [Timeline of Legends media][TLM].
 ### [X-Wing: Isard's Revenge][XW8]
 ### [Star Wars: Jedi Knight: Mysteries of the Sith][MOS]
 ### [Star Wars: Jedi Knight II: Jedi Outcast][DF3]
+### [Star Wars: I, Jedi][JED]
 ### [Star Wars: Spector of the Past][HT1]
 ### [Star Wars: Vision of the Future][HT2]
 
@@ -86,6 +87,7 @@ Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
 [EP6]: http://starwars.wikia.com/wiki/Star_Wars:_Episode_VI_Return_of_the_Jedi
 [HT1]: http://starwars.wikia.com/wiki/Specter_of_the_Past
 [HT2]: http://starwars.wikia.com/wiki/Vision_of_the_Future
+[JED]: http://starwars.wikia.com/wiki/I,_Jedi
 [MOS]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Mysteries_of_the_Sith
 [SOE]: http://starwars.wikia.com/wiki/Shadows_of_the_Empire_(novel)
 [TFG]: http://starwars.wikia.com/wiki/Star_Wars:_TIE_Fighter
