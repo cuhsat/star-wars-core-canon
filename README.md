@@ -17,6 +17,7 @@ the [Timeline of Legends media][TLM].
 ### [Star Wars: Episode IV A New Hope][EP4]
 ### [Star Wars: Allegiance][ALL]
 ### [Star Wars: Choices of One][COO]
+### [Star Wars: Splinter of the Mind's Eye][SPL]
 ### [Star Wars: TIE Fighter][TFG]
 ### [Star Wars: Episode V The Empire Strikes Back][EP5]
 ### [Star Wars: X-Wing vs. TIE Fighter][XVT]
@@ -90,6 +91,7 @@ Star Wars: TM & © Lucasfilm Ltd. All Rights Reserved.
 [JED]: http://starwars.wikia.com/wiki/I,_Jedi
 [MOS]: http://starwars.wikia.com/wiki/Star_Wars:_Jedi_Knight:_Mysteries_of_the_Sith
 [SOE]: http://starwars.wikia.com/wiki/Shadows_of_the_Empire_(novel)
+[SPL]: http://starwars.wikia.com/wiki/Splinter_of_the_Mind%27s_Eye
 [TFG]: http://starwars.wikia.com/wiki/Star_Wars:_TIE_Fighter
 [TH1]: http://starwars.wikia.com/wiki/Heir_to_the_Empire
 [TH2]: http://starwars.wikia.com/wiki/Dark_Force_Rising
