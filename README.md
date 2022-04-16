@@ -55,7 +55,7 @@ _Star Wars: Knights of the Old Republic_ (RPG) is really great, but way off
 time for this list.
 
 ### What about the _Yuuzhan Vong_?
-I'm not interessted in that kind of shit.
+Should be called the _something_ _wrong_.
 
 ### What about the _Midi-chlorians_?
 Stop making up words.
@@ -63,8 +63,11 @@ Stop making up words.
 ### What about the _Clone Wars_?
 You mean the Clown Wars? Clowns are for kids.
 
+### What about Episode _7_, _8_ or _9_?
+Never happened, never will.
+
 ### What about Episode _3_, _2_ or _1_?
-No, no, and **just no**.
+Nah, no, and **just no**.
 
 ### Really, no _Jar Jar Binks_?
 Get of my lawn, kid. I dare you!
