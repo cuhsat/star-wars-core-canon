@@ -55,7 +55,7 @@ _Star Wars: Knights of the Old Republic_ (RPG) is really great, but way off
 time for this list.
 
 ### What about the _Yuuzhan Vong_?
-Should be called the _something_ _wrong_.
+Should be called the _Something_ _Wrong_.
 
 ### What about the _Midi-chlorians_?
 Stop making up words.
